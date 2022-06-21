@@ -1,3 +1,5 @@
 <resources>
     <string name="hello_from_library">Hello from Library!</string>
+    <string name="hello_again_from_library">Hello again from Library</string>
+    <string name="got_to_next_lib_activity">Got to next lib activity</string>
 </resources>
